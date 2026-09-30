@@ -10,7 +10,7 @@ Arquitetura:
 
 Por que a chave fica AQUI e não no navegador?
   Tudo que vai para o navegador pode ser visto por qualquer pessoa (F12).
-  O servidor guarda a chave e só devolve o resultado. Regra de ouro de segurança. commit 5
+  O servidor guarda a chave e só devolve o resultado. Regra de ouro de segurança. commit 6
 """
 import os
 import sys
