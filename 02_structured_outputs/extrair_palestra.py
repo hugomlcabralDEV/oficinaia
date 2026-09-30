@@ -11,9 +11,10 @@ A API então é OBRIGADA a devolver um JSON que segue esse schema.
 
 Conceitos:
   • schema      → a "forma" que os dados precisam ter (campos + tipos)
-  • Pydantic    → biblioteca Python para declarar schemas como classes
+  • Pydantic    → biblioteca Python para   declarar schemas como classes
   • Field(description=...) → explica cada campo para o modelo (ajuda muito!)
   • model_validate_json → converte o texto JSON em um objeto Python validado
+
 """
 import sys
 from pathlib import Path
