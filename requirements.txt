@@ -1,0 +1,10 @@
+# SDK oficial do Google para a Gemini API (Interactions API exige >= 2.3.0)
+google-genai>=2.3.0
+# Validação de dados e schemas para structured outputs
+pydantic>=2.7
+# Lê a chave da API do arquivo .env
+python-dotenv>=1.0
+# Chamadas HTTP para APIs externas (clima, CEP)
+requests>=2.31
+# Testes automatizados (opcional)
+pytest>=8.0

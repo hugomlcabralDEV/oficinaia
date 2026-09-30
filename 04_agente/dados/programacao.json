@@ -1,0 +1,21 @@
+{
+  "_aviso": "DADOS FICTÍCIOS DE EXEMPLO para a oficina. Substitua pela programação oficial do Rec'n'Play se quiser.",
+  "evento": "Rec'n'Play (exemplo)",
+  "cidade": "Recife",
+  "atividades": [
+    {"id": "A01", "titulo": "Abertura: o futuro da tecnologia em Pernambuco", "tipo": "palestra", "trilha": "Carreira", "dia": "quinta", "inicio": "09:00", "fim": "10:00", "local": "Palco Marco Zero", "nivel": "todos"},
+    {"id": "A02", "titulo": "Python do zero em 90 minutos", "tipo": "oficina", "trilha": "Programação", "dia": "quinta", "inicio": "10:30", "fim": "12:00", "local": "Sala Frevo", "nivel": "iniciante"},
+    {"id": "A03", "titulo": "Design de interfaces acessíveis", "tipo": "palestra", "trilha": "Design", "dia": "quinta", "inicio": "14:00", "fim": "15:00", "local": "Sala Maracatu", "nivel": "iniciante"},
+    {"id": "A04", "titulo": "Workshop Prático: Construção de Agentes Autônomos com Gemini API e Function Calling", "tipo": "oficina", "trilha": "Inteligência Artificial", "dia": "quinta", "inicio": "13:00", "fim": "17:00", "local": "Sala Frevo", "nivel": "iniciante"},
+    {"id": "A05", "titulo": "Carreira em dados: por onde começar", "tipo": "painel", "trilha": "Dados", "dia": "quinta", "inicio": "16:00", "fim": "17:00", "local": "Palco Marco Zero", "nivel": "todos"},
+    {"id": "A06", "titulo": "Cloud para iniciantes: seu primeiro deploy", "tipo": "oficina", "trilha": "Cloud", "dia": "sexta", "inicio": "09:00", "fim": "11:00", "local": "Sala Capibaribe", "nivel": "iniciante"},
+    {"id": "A07", "titulo": "LLMs em produção: custos, latência e qualidade", "tipo": "palestra", "trilha": "Inteligência Artificial", "dia": "sexta", "inicio": "11:00", "fim": "12:00", "local": "Palco Marco Zero", "nivel": "intermediário"},
+    {"id": "A08", "titulo": "Games indies feitos no Nordeste", "tipo": "painel", "trilha": "Games", "dia": "sexta", "inicio": "14:00", "fim": "15:00", "local": "Sala Maracatu", "nivel": "todos"},
+    {"id": "A09", "titulo": "Segurança para devs: OWASP na prática", "tipo": "oficina", "trilha": "Segurança", "dia": "sexta", "inicio": "14:00", "fim": "16:00", "local": "Sala Capibaribe", "nivel": "intermediário"},
+    {"id": "A10", "titulo": "Prompt engineering sem mistério", "tipo": "palestra", "trilha": "Inteligência Artificial", "dia": "sexta", "inicio": "16:00", "fim": "17:00", "local": "Sala Frevo", "nivel": "iniciante"},
+    {"id": "A11", "titulo": "Robótica com Arduino para todas as idades", "tipo": "oficina", "trilha": "Maker", "dia": "sábado", "inicio": "09:00", "fim": "12:00", "local": "Espaço Maker", "nivel": "iniciante"},
+    {"id": "A12", "titulo": "Mulheres na tecnologia: trajetórias e redes", "tipo": "painel", "trilha": "Carreira", "dia": "sábado", "inicio": "10:00", "fim": "11:00", "local": "Palco Marco Zero", "nivel": "todos"},
+    {"id": "A13", "titulo": "RAG: dando memória de documentos para a IA", "tipo": "oficina", "trilha": "Inteligência Artificial", "dia": "sábado", "inicio": "14:00", "fim": "16:00", "local": "Sala Frevo", "nivel": "intermediário"},
+    {"id": "A14", "titulo": "Encerramento e Hackathon Awards", "tipo": "palestra", "trilha": "Comunidade", "dia": "sábado", "inicio": "17:00", "fim": "18:00", "local": "Palco Marco Zero", "nivel": "todos"}
+  ]
+}

@@ -1,0 +1,7 @@
+# Atalho: docker compose up --build   (lê a chave do arquivo .env)
+services:
+  guia:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file: .env
